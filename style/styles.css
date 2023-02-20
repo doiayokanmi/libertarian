@@ -1,7 +1,12 @@
 body {
     background-color: black;
+    overflow-x: hidden;
 }
 
 #red {
     background-color: #e70000;
+}
+
+#brown {
+    background-color: #571212;
 }
